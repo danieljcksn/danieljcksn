@@ -1,5 +1,6 @@
-<img align="center" src="https://raw.githubusercontent.com/danieljcksn/danieljcksn/main/acm_icpc_brazil_2021.png?token=GHSAT0AAAAAABXOBCP6O35DP7SIDFWY54RWYZCOEKQ" alt="Gramado, 2022" width="1000"/>
-<h3 align="center">Hi 👋, I'm Daniel</h3>
+<img align="center" src="https://raw.githubusercontent.com/danieljcksn/danieljcksn/main/acm_icpc_brazil_gramado_2021.png" alt="Gramado, 2022" width="1000"/>
+
+
 
 - 🌱 I’m currently learning about **Artificial Neural Networks and Backend Development**
 
@@ -12,5 +13,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieljcksn&show_icons=true&locale=en&layout=compact" alt="danieljcksn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieljcksn&show_icons=true&locale=en" alt="danieljcksn" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=danieljcksn&show_icons=true&locale=en" alt="danieljcksn" /></p>
 
