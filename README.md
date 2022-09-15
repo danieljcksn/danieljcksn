@@ -2,11 +2,11 @@
 
 
 
-- 🌱 I’m currently learning about **Artificial Neural Networks and Backend Development**
+- 🌱 I’m currently learning about **Artificial Neural Networks** and **Backend Development**
 
-- 📫 How to reach me **daniiel.cavallcante@gmail.com**
+- 📫 How to reach me: daniiel.cavallcante@gmail.com
 
-- ⚡ Fun fact **I reached Diamond 2 in Valorant :sunglasses: :diamonds:**
+- ⚡ Fun fact: I reached Diamond 2 in Valorant :sunglasses: :diamonds:
 
 <p float="left">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=danieljcksn&show_icons=true&locale=en&theme=dark" alt="danieljcksn" />&nbsp;&nbsp;<img  width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieljcksn&show_icons=true&locale=en&layout=compact&theme=dark" alt="danieljcksn" /></p>
