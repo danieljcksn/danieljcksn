@@ -6,7 +6,6 @@
 
 - 📫 How to reach me: daniiel.cavallcante@gmail.com
 
-- ⚡ Fun fact: I reached Diamond 2 in Valorant :sunglasses: :diamonds:
 
 <p float="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danieljcksn&show_icons=true&locale=en&layout=compact&theme=dark" alt="danieljcksn" />
