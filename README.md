@@ -2,6 +2,6 @@
 
 
 
-- 🌱 I’m currently learning about **Artificial Neural Networks** and **Backend Development**
+- 🌱 I’m currently learning about Artificial Neural Networks and Backend Development
 
 - 📫 How to reach me: daniiel.cavallcante@gmail.com
